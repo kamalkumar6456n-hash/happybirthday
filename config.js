@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "dummu",
-  photo: "https://photos.app.goo.gl/z77BNaY1bUq4k6C66",       // Place your photo in the img/ folder
+  photo: "",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
